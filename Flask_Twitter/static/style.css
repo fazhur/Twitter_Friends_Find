@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-image: url(background.png);
+    font-family: Arial;
+  }
+h1 {
+    color: #2d00aa;
+    font-size: 25pt;
+    font-weight: bold;
+  }
+.my_button {
+    width: 130px;
+    height: 45px;
+    font-size: 17pt;
+}
+.my_field {
+  width: 220px;
+  height: 40px;
+  font-size: 20pt;
+}
